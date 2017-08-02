@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Helpful Pro Plugin\n"
+"POT-Creation-Date: 2017-05-10 16:15+0200\n"
+"PO-Revision-Date: 2017-05-10 16:15+0200\n"
+"Language-Team: Devhats <kevin@devhats.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: helpful-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Devhats <kevin@devhats.de>\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: config.php:19
+msgid "War dieser Beitrag hilfreich?"
+msgstr "War dieser Beitrag hilfreich?"
+
+#: config.php:20
+msgid ""
+"Teilen Sie uns mit, wenn Ihnen der Beitrag gefallen hat. Nur so können wir "
+"uns verbessern."
+msgstr ""
+"Teilen Sie uns mit, wenn Ihnen der Beitrag gefallen hat. Nur so können wir "
+"uns verbessern."
+
+#: config.php:21
+msgid "Sie haben bereits für diesen Beitrag abgestimmt."
+msgstr "Sie haben bereits für diesen Beitrag abgestimmt."
+
+#: config.php:22
+msgid "Vielen Dank dafür, dass Sie für unseren Beitrag abgestimmt haben."
+msgstr "Vielen Dank dafür, dass Sie für unseren Beitrag abgestimmt haben."
+
+#: config.php:23 core/Core.class.php:877
+msgid "Leider ist ein Fehler aufgetreten."
+msgstr "Leider ist ein Fehler aufgetreten."
+
+#: config.php:24
+msgid "Ja"
+msgstr "Ja"
+
+#: config.php:25
+msgid "Nein"
+msgstr "Nein"
+
+#: config.php:26
+msgid "Pro"
+msgstr "Pro"
+
+#: config.php:27
+msgid "Kontra"
+msgstr "Kontra"
+
+#: core/Core.class.php:96 core/Core.class.php:97 templates/backend.php:12
+msgid "Helpful"
+msgstr "Helpful"
+
+#: core/Core.class.php:175 core/tabs/general.php:18
+msgid "Allgemein"
+msgstr "Allgemein"
+
+#: core/Core.class.php:189 core/tabs/system.php:15
+msgid "System"
+msgstr "System"
+
+#: core/Core.class.php:610
+msgid "Die Datenbank-Tabelle wurde erfolgreich zurückgesetzt!"
+msgstr "Die Datenbank-Tabelle wurde erfolgreich zurückgesetzt!"
+
+#: core/Core.class.php:620
+msgid "Links & Support"
+msgstr "Links & Support"
+
+#: core/Core.class.php:622
+msgid "Du benötigst mehr Informationen?"
+msgstr "Du benötigst mehr Informationen?"
+
+#: core/Core.class.php:624
+msgid "Changelog"
+msgstr "Changelog"
+
+#: core/Core.class.php:625
+msgid "Support"
+msgstr "Support"
+
+#: core/Core.class.php:630
+msgid ""
+"Auf der Suche nach Themes und Design-Einstellungen?<br />Kaufe dir noch "
+"heute die Pro-Version von Helpful!"
+msgstr ""
+"Auf der Suche nach Themes und Design-Einstellungen?<br />Kaufe dir noch "
+"heute die Pro-Version von Helpful!"
+
+#: core/Core.class.php:632
+msgid "Weitere Informationen"
+msgstr "Weitere Informationen"
+
+#: core/Core.class.php:656
+msgid "Helpful Statistiken"
+msgstr "Helpful Statistiken"
+
+#: core/Core.class.php:739
+msgid "Helpful Einstellungen"
+msgstr "Helpful Einstellungen"
+
+#: core/Core.class.php:868
+msgid "Vielen Dank für Ihre Stimme!"
+msgstr "Vielen Dank für Ihre Stimme!"
+
+#: core/Pro.class.php:64 core/tabs/design.php:15
+msgid "Design"
+msgstr "Design"
+
+#: core/Pro.class.php:95
+msgid "Nach Abstimmung (Pro)"
+msgstr "Nach Abstimmung (Pro)"
+
+#: core/Pro.class.php:99
+msgid ""
+"Der Text der nach einer positiven Abstimmung angezeigt wird (Shortcodes "
+"<b>ohne Ajax</b> sind auch möglich!)"
+msgstr ""
+"Der Text der nach einer positiven Abstimmung angezeigt wird (Shortcodes "
+"<b>ohne Ajax</b> sind auch möglich!)"
+
+#: core/Pro.class.php:106
+msgid "Nach Abstimmung (Kontra)"
+msgstr "Nach Abstimmung (Kontra)"
+
+#: core/Pro.class.php:110
+msgid ""
+"Der Text der nach einer negativen Abstimmung angezeigt wird (Shortcodes "
+"<b>ohne Ajax</b> sind auch möglich!)"
+msgstr ""
+"Der Text der nach einer negativen Abstimmung angezeigt wird (Shortcodes "
+"<b>ohne Ajax</b> sind auch möglich!)"
+
+#: core/Pro.class.php:143
+msgid "Base"
+msgstr "Base"
+
+#: core/Pro.class.php:144
+msgid "Dark"
+msgstr "Dark"
+
+#: core/Pro.class.php:145
+msgid "Minimal"
+msgstr "Minimal"
+
+#: core/Pro.class.php:146
+msgid "Flat"
+msgstr "Flat"
+
+#: core/Pro.class.php:147 core/tabs/design.php:28
+msgid "Theme"
+msgstr "Theme"
+
+#: core/tabs/design.php:17
+msgid ""
+"Hier kannst Du Einstellungen verändern, die das Design betreffen. Außerdem "
+"kannst du zwischen vorgefertigten Themes wählen."
+msgstr ""
+"Hier kannst Du Einstellungen verändern, die das Design betreffen. Außerdem "
+"kannst du zwischen vorgefertigten Themes wählen."
+
+#: core/tabs/design.php:129
+msgid "Benutzerdefiniertes CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: core/tabs/general.php:20
+msgid ""
+"Hier kannst du allgemeine Einstellungen vornehmen. Dazu zählen unter anderem "
+"das Ausblenden der Credits, die verschiedenen Texte und andere Dinge.<br /"
+">Mit <code>{pro}</code> kannst du die positiven und mit <code>{contra}</"
+"code> die negatigen Stimmen, in einem Editor hier auf der Seite, ausgeben."
+msgstr ""
+"Hier kannst du allgemeine Einstellungen vornehmen. Dazu zählen unter anderem "
+"das Ausblenden der Credits, die verschiedenen Texte und andere Dinge.<br /"
+">Mit <code>{pro}</code> kannst du die positiven und mit <code>{contra}</"
+"code> die negatigen Stimmen, in einem Editor hier auf der Seite, ausgeben."
+
+#: core/tabs/general.php:31
+msgid "Überschrift"
+msgstr "Überschrift"
+
+#: core/tabs/general.php:34
+msgid "Gebe hier deine eigene Überschrift ein."
+msgstr "Gebe hier deine eigene Überschrift ein."
+
+#: core/tabs/general.php:38
+msgid "Inhaltstext"
+msgstr "Inhaltstext"
+
+#: core/tabs/general.php:41
+msgid "Gebe hier deinen eigenen Inhaltstext ein."
+msgstr "Gebe hier deinen eigenen Inhaltstext ein."
+
+#: core/tabs/general.php:45 core/tabs/general.php:137
+msgid "Bereits abgestimmt"
+msgstr "Bereits abgestimmt"
+
+#: core/tabs/general.php:48
+msgid ""
+"Dieser Text erschreint immer dann, wenn der jeweilige Benutzer bereits für "
+"den Beitrag abgestimmt hat."
+msgstr ""
+"Dieser Text erschreint immer dann, wenn der jeweilige Benutzer bereits für "
+"den Beitrag abgestimmt hat."
+
+#: core/tabs/general.php:57
+msgid "Button (Pro)"
+msgstr "Button (Pro)"
+
+#: core/tabs/general.php:60
+msgid "Gebe hier deinen eigenen Text für den Pro-Button ein."
+msgstr "Gebe hier deinen eigenen Text für den Pro-Button ein."
+
+#: core/tabs/general.php:64
+msgid "Button (Kontra)"
+msgstr "Button (Kontra)"
+
+#: core/tabs/general.php:67
+msgid "Gebe hier deinen eigenen Text für den Kontra-Button ein."
+msgstr "Gebe hier deinen eigenen Text für den Kontra-Button ein."
+
+#: core/tabs/general.php:76
+msgid "Spalte (Pro)"
+msgstr "Spalte (Pro)"
+
+#: core/tabs/general.php:79
+msgid "Gebe hier deinen eigenen Text für die Pro-Spalte in Beitragslisten ein."
+msgstr ""
+"Gebe hier deinen eigenen Text für die Pro-Spalte in Beitragslisten ein."
+
+#: core/tabs/general.php:83
+msgid "Spalte (Kontra)"
+msgstr "Spalte (Kontra)"
+
+#: core/tabs/general.php:86
+msgid ""
+"Gebe hier deinen eigenen Text für die Kontra-Spalte in Beitragslisten ein."
+msgstr ""
+"Gebe hier deinen eigenen Text für die Kontra-Spalte in Beitragslisten ein."
+
+#: core/tabs/general.php:97
+msgid "Beitragstypen"
+msgstr "Beitragstypen"
+
+#: core/tabs/general.php:133
+msgid "Wähle hier die Beitragstypen, unter denen Helpful erscheinen soll."
+msgstr "Wähle hier die Beitragstypen, unter denen Helpful erscheinen soll."
+
+#: core/tabs/general.php:140 core/tabs/general.php:148
+#: core/tabs/general.php:169
+msgid "ausblenden"
+msgstr "ausblenden"
+
+#: core/tabs/general.php:141
+msgid "Blende Helpful aus, wenn der Benutzer bereits abgestimmt hat."
+msgstr "Blende Helpful aus, wenn der Benutzer bereits abgestimmt hat."
+
+#: core/tabs/general.php:145
+msgid "Abstimmungen"
+msgstr "Abstimmungen"
+
+#: core/tabs/general.php:149
+msgid "Blende die Abstimmung aus."
+msgstr "Blende die Abstimmung aus."
+
+#: core/tabs/general.php:153
+msgid "Credits"
+msgstr "Credits"
+
+#: core/tabs/general.php:156
+msgid "anzeigen"
+msgstr "anzeigen"
+
+#: core/tabs/general.php:157
+msgid ""
+"Unterstütze uns, in dem du deinen Besuchern zeigst, dass dieses Plugin von "
+"uns ist."
+msgstr ""
+"Unterstütze uns, in dem du deinen Besuchern zeigst, dass dieses Plugin von "
+"uns ist."
+
+#: core/tabs/general.php:166
+msgid "Dashboard Widget"
+msgstr "Dashboard Widget"
+
+#: core/tabs/general.php:170
+msgid ""
+"Blendet das Dashboard Widget mit den beliebtesten/unbeliebtesten Beiträgen "
+"aus."
+msgstr ""
+"Blendet das Dashboard Widget mit den beliebtesten/unbeliebtesten Beiträgen "
+"aus."
+
+#: core/tabs/system.php:17
+msgid ""
+"Hier lässt sich das Plugin vollständig zurücksetzen. Das ist der Inhalt der "
+"Datenbank-Tabelle, die einzelnen Meta-Felder der Beiträge und alle "
+"vorgenommenen Einstellungen, mit Ausnahme der Design-Einstellungen (PRO). <b "
+"class=\"danger\">Dieser Vorgang lässt sich nicht rückgängig machen! Gelöscht "
+"ist gelöscht!</b>"
+msgstr ""
+"Hier lässt sich das Plugin vollständig zurücksetzen. Das ist der Inhalt der "
+"Datenbank-Tabelle, die einzelnen Meta-Felder der Beiträge und alle "
+"vorgenommenen Einstellungen, mit Ausnahme der Design-Einstellungen (PRO). <b "
+"class=\"danger\">Dieser Vorgang lässt sich nicht rückgängig machen! Gelöscht "
+"ist gelöscht!</b>"
+
+#: core/tabs/system.php:28
+msgid "Plugin zurücksetzen"
+msgstr "Plugin zurücksetzen"
+
+#. Plugin Name of the plugin/theme
+msgid "Helpful Pro Plugin"
+msgstr "Helpful Pro Plugin"
+
+#. Description of the plugin/theme
+msgid "Frage deine Besucher ob der Beitrag ihnen gefallen hat, oder nicht."
+msgstr "Frage deine Besucher ob der Beitrag ihnen gefallen hat, oder nicht."
+
+#. Author of the plugin/theme
+msgid "Devhats"
+msgstr "Devhats"
+
+#. Author URI of the plugin/theme
+msgid "https://devhats.de"
+msgstr "https://devhats.de"

@@ -1,0 +1,95 @@
+/**
+ * Helpful Charts
+ *
+ * @author  Devhats
+ * @version 1.0
+ */
+
+#helpful_widget .helpful-counter {}
+
+#helpful_widget .helpful-counter-pro {
+	width: calc( 50% - 45px );
+	margin-right: 10px;
+	display: inline-block;
+	padding: 30px 20px 50px;
+	background-color: #2ecc71;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+}
+
+#helpful_widget .helpful-counter-pro:after {
+	content: 'pro';
+	text-transform: uppercase;
+	position: absolute;
+	width: calc( 100% - 10px );
+	text-align: center;
+	bottom: 5px;
+	left: 0;
+	padding: 5px 5px;
+	background-color: #27ae60;
+}
+
+#helpful_widget .helpful-counter-contra {
+	width: calc( 50% - 45px );
+	display: inline-block;
+	padding: 30px 20px 50px;
+	background-color: #e74c3c;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+}
+
+#helpful_widget .helpful-counter-contra:after {
+	content: 'contra';
+	text-transform: uppercase;
+	position: absolute;
+	width: calc( 100% - 10px );
+	text-align: center;
+	bottom: 5px;
+	left: 0;
+	padding: 5px 5px;
+	background-color: #c0392b;
+}
+
+#helpful_widget hr {
+	background-color: #e5e5e5;
+	border-color: #e5e5e5;
+	border-width: 1px 0 0 0;
+	width: calc(100% + 25px);
+	margin: 10px -12.5px;
+}
+
+#helpful_widget .helpful-settings a {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-size: 90%;
+	border-left: 1px solid #e5e5e5;
+	width: 40px;
+	padding: 10px 0;
+	line-height: 0;
+	text-align: center;
+	display: table-cell;
+	color: #999;
+}
+
+#helpful_widget .helpful-settings a:hover {
+	border-left: 1px solid #e5e5e5;
+	background: #e5e5e5;
+	color: #666;
+}
+
+#helpful_widget .helpful-credits {
+	display: inline;
+	font-size: 90%;
+	color: #bbb;
+}
+
+#helpful_widget .helpful-credits a {
+	color: #bbb;
+}
